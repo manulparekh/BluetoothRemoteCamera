@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth Remote Camera</string>
+    <string name="simulate_as_watch">Watch Live Camera</string>
+    <string name="as_mobile">Paired Device</string>
+    <string name="bluetooth_not_supported">Sorry! your device doesn\'t\nsupport bluetooth.</string>
+    <string name="bluetooth_not_enabled">Please enable bluetooth!</string>
+</resources>

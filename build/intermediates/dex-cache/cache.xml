@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sneha\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.6.2\123f29333b2c6b3516b14252b6e93226bfcd6e37\jackson-core-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="123f29333b2c6b3516b14252b6e93226bfcd6e37">
+        <dex dex="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.6.2_ec672c5892e8a3e28aa78f975f2d8515e78a0393\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fc6375c9f2b1004754aae0f8c2b35f898b54d48f">
+        <dex dex="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b671e993fb54f5e1fca8678634a8374554da954c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sneha\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.6.0\a0990e2e812ac6639b6ce955c91b13228500476e\jackson-annotations-2.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0990e2e812ac6639b6ce955c91b13228500476e">
+        <dex dex="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.6.0_a5ff10e445cbeee147c5c421df1d85d474f57c86\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_9fe967dc3366a95dc5d2eecda99e9929b6ed239e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sneha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_c1d65202718d9e6be5e0ac4f5ba58fd9e7305c0e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_4a8872392fb42ba09183dd9a25e3b825a852a31d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7a5854f06779aa1e76e6bb221a066d2af1b075e2">
+        <dex dex="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0228858b30bd81003912adb8e2743e501d8abaf4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_34db9f6da06627fe98dbbd53f84a97aaa479320c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sneha\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.6.2\25c2196ddf53961b6dc862073187be51cb356fd3\jackson-databind-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="25c2196ddf53961b6dc862073187be51cb356fd3">
+        <dex dex="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.6.2_433752cccb6b965ef0a096c7e942385f5ea59294\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\sneha\Downloads\Bluetooth Remote Camera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_53169337e4cc4c8612831f1b2cc22ece1bb5f19c\classes.dex" />
+    </item>
+
+</items>
